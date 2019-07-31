@@ -1,0 +1,46 @@
+.social-icons {
+    margin-top: 3em;
+    margin-bottom: 1em;
+  }
+  #logincontainer{
+max-width: 40em;
+  }
+  .social-icons a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    padding: 10px 14px;
+    background-color: #f8f9fa;
+  }
+  
+  .fa-facebook:hover {
+    background-color: #3d5b99;
+  }
+  
+  .fa-linkedin {
+    padding: 10px 11px;
+    background-color: #f8f9fa;
+  }
+  
+  .fa-linkedin:hover {
+    background-color: #ff0000;
+}
+  
+  
+  .fa-google-plus {
+    padding: 10px 8px;
+    background-color: #f8f9fa;
+  }
+  
+  .fa-google-plus:hover {
+    background-color: #e25714;
+  }
+  .fa-twitter {
+    padding: 10px 11px;
+    background-color: #f8f9fa;
+  }
+  
+  .fa-twitter:hover {
+    background-color: #00aced;
+  }
